@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: 
+Disallow: /font/
+Disallow: /images/
+Disallow: /js/
+Disallow: /php/
+Disallow: /rules/
+Disallow: /slider/
+Disallow: /east/
+Sitemap: http://www.donbass-post.ru/sitemap.xml
+Host: www.donbass-post.ru

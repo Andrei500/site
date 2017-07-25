@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- created with www.majento.ru -->
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+	<loc>http://donbass-post.ru/</loc>
+	<lastmod>2016-08-16T19:09:09+03:00</lastmod>
+	<priority>1.00</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://donbass-post.ru/about.php</loc>
+	<lastmod>2016-08-16T19:09:09+03:00</lastmod>
+	<priority>0.90</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://donbass-post.ru/branches.php</loc>
+	<lastmod>2016-08-16T19:09:09+03:00</lastmod>
+	<priority>0.90</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://donbass-post.ru/commerce.php</loc>
+	<lastmod>2016-08-16T19:09:09+03:00</lastmod>
+	<priority>0.90</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://donbass-post.ru/delivery.php</loc>
+	<lastmod>2016-08-16T19:09:09+03:00</lastmod>
+	<priority>0.90</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://donbass-post.ru/money.php</loc>
+	<lastmod>2016-08-16T19:09:09+03:00</lastmod>
+	<priority>0.90</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://donbass-post.ru/online-shops.php</loc>
+	<lastmod>2016-08-16T19:09:09+03:00</lastmod>
+	<priority>0.90</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://donbass-post.ru/parcels.php</loc>
+	<lastmod>2016-08-16T19:09:09+03:00</lastmod>
+	<priority>0.90</priority>
+	<changefreq>weekly</changefreq>
+</url>
+</urlset>

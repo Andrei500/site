@@ -1,0 +1,11 @@
+RewriteEngine On
+RewriteBase /
+RewriteCond %{HTTP_HOST} (.*)
+RewriteCond %{REQUEST_URI} /$ [NC]
+RewriteRule ^(.*)(/)$ $1 [L,R=301]
+
+ErrorDocument 401 /404.php
+ErrorDocument 404 /404.php
+ErrorDocument 500 /404.php
+
+
